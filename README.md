@@ -66,3 +66,7 @@ Leonardo Faneze
 Vinicius Felix
 
 [![LinkedIn](https://media.licdn.com/dms/image/D4D03AQEqPI76gP-OrA/profile-displayphoto-shrink_100_100/0/1684601854331?e=1707955200&v=beta&t=wyb1YdYs-NmUPtW4vzgiRIE6WUSyL6jvzHlJ2q7Dy9A)](https://www.linkedin.com/in/vini-felix/)
+
+Cecília Silva
+
+[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQHBEKLi3xsNEQ/profile-displayphoto-shrink_100_100/0/1701786995108?e=1707955200&v=beta&t=8ngHPPs4VpMSBypPPb94mQ0bCr7opwYdxDrguyrYD00)](https://www.linkedin.com/in/ceciliaprogramadora/)
