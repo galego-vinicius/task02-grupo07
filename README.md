@@ -51,41 +51,37 @@ Nota: ⭐⭐⭐⭐⭐
 ## Integrantes do Grupo
 
 
-Tiago Raupp da Rosa
+<table style="text-align: center;"> 
+    <tr>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/tiago-raupp/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_100_100/0/1689184256625?e=1707955200&v=beta&t=YGDfO7BXeO6LWCcSN6epDHPPjzHEtA358QwP0oTkFL8" alt="Imagem"/></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/gabrielzampieri/" target="_blank"><img src="https://media.licdn.com/dms/image/C4E03AQG1oRzT8pUZIg/profile-displayphoto-shrink_100_100/0/1626807500603?e=1707955200&v=beta&t=ipBRL14xXGA8bpdEVvgIK3QHQ-1x3O1FjTPrvpcLCQY" alt="Imagem"/></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/leonardo-faneze-camboim/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQGvxp35hrLmFA/profile-displayphoto-shrink_100_100/0/1667805242642?e=1707955200&v=beta&t=wF87Jo_K8ElrOiZMPtQJ9K6klOFt9E0sktK9f_fpgr8" alt="Imagem"/></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/vini-felix/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQEqPI76gP-OrA/profile-displayphoto-shrink_100_100/0/1684601854331?e=1707955200&v=beta&t=wyb1YdYs-NmUPtW4vzgiRIE6WUSyL6jvzHlJ2q7Dy9A" alt="Imagem"/></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/ceciliaprogramadora/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQHBEKLi3xsNEQ/profile-displayphoto-shrink_100_100/0/1701786995108?e=1707955200&v=beta&t=8ngHPPs4VpMSBypPPb94mQ0bCr7opwYdxDrguyrYD00" alt="Imagem"/></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/arthurschroder/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E03AQE-LrTH9UVR6w/profile-displayphoto-shrink_100_100/0/1692737537511?e=1707955200&v=beta&t=-PRH6a5xOjtWpDio2b8xwhtTmAM0DL5y4NuSbVIBqrw" alt="Imagem"/></a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Tiago Raupp</td>
+        <td style="text-align: center;">Gabriel Zampieri</td>
+        <td style="text-align: center;">Leonardo Faneze</td>
+        <td style="text-align: center;">Vinicius Felix</td>
+        <td style="text-align: center;">Cecília Silva</td>
+        <td style="text-align: center;">Arthur Schroder</td>
+    </tr>
+</table>
 
-[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_100_100/0/1689184256625?e=1707955200&v=beta&t=YGDfO7BXeO6LWCcSN6epDHPPjzHEtA358QwP0oTkFL8)](https://www.linkedin.com/in/tiago-raupp/)
-
-Gabriel Zampieri
-
-[![LinkedIn](https://media.licdn.com/dms/image/C4E03AQG1oRzT8pUZIg/profile-displayphoto-shrink_100_100/0/1626807500603?e=1707955200&v=beta&t=ipBRL14xXGA8bpdEVvgIK3QHQ-1x3O1FjTPrvpcLCQY)](https://www.linkedin.com/in/gabrielzampieri/)
-
-Leonardo Faneze
-
-[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQGvxp35hrLmFA/profile-displayphoto-shrink_100_100/0/1667805242642?e=1707955200&v=beta&t=wF87Jo_K8ElrOiZMPtQJ9K6klOFt9E0sktK9f_fpgr8)](https://www.linkedin.com/in/leonardo-faneze-camboim/)
-
-Vinicius Felix
-
-[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQEqPI76gP-OrA/profile-displayphoto-shrink_100_100/0/1684601854331?e=1707955200&v=beta&t=wyb1YdYs-NmUPtW4vzgiRIE6WUSyL6jvzHlJ2q7Dy9A)](https://www.linkedin.com/in/vini-felix/)
-
-Cecília Silva
-
-[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQHBEKLi3xsNEQ/profile-displayphoto-shrink_100_100/0/1701786995108?e=1707955200&v=beta&t=8ngHPPs4VpMSBypPPb94mQ0bCr7opwYdxDrguyrYD00)](https://www.linkedin.com/in/ceciliaprogramadora/)
-
-Arthur Schroder 
-
-[![LinkedIn](https://media.licdn.com/dms/image/D4E03AQE-LrTH9UVR6w/profile-displayphoto-shrink_100_100/0/1692737537511?e=1707955200&v=beta&t=-PRH6a5xOjtWpDio2b8xwhtTmAM0DL5y4NuSbVIBqrw)](https://www.linkedin.com/in/arthurschroder/)
 
 ## Documentação
 
-<table> 
+<table style="text-align: center;"> 
     <tr>
-        <th>Língua Padrão</th>
-        <th>Branch Utilizada</th>
-        <th>Lista</th>
+        <th style="text-align: center;">Língua Padrão</th>
+        <th style="text-align: center;">Branch Utilizada</th>
+        <th style="text-align: center;">Lista</th>
     </tr>
     <tr>
-        <td>Inglês</td>
-        <td>feat-movies</td>
-        <td><a href="https://letterboxd.com/februaryfriday/list/top-choices-dos-criticos/" target="_blank">Clique aqui</a></td>
+        <td style="text-align: center;">Inglês</td>
+        <td style="text-align: center;">feat-movies</td>
+        <td style="text-align: center;"><a href="https://letterboxd.com/februaryfriday/list/top-choices-dos-criticos/" target="_blank">Clique aqui</a></td>
     </tr>
 </table>
