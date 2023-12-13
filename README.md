@@ -48,7 +48,7 @@ Nota: ⭐⭐⭐⭐⭐
 
 
 
-Integrantes do Grupo
+## Integrantes do Grupo
 
 
 Tiago Raupp da Rosa
@@ -74,3 +74,18 @@ Cecília Silva
 Arthur Schroder 
 
 [![LinkedIn](https://media.licdn.com/dms/image/D4E03AQE-LrTH9UVR6w/profile-displayphoto-shrink_100_100/0/1692737537511?e=1707955200&v=beta&t=-PRH6a5xOjtWpDio2b8xwhtTmAM0DL5y4NuSbVIBqrw)](https://www.linkedin.com/in/arthurschroder/)
+
+## Documentação
+
+<table> 
+    <tr>
+        <th>Língua Padrão</th>
+        <th>Branch Utilizada</th>
+        <th>Lista</th>
+    </tr>
+    <tr>
+        <td>Inglês</td>
+        <td>feat-movies</td>
+        <td><a href="https://letterboxd.com/februaryfriday/list/top-choices-dos-criticos/" target="_blank">Clique aqui</a></td>
+    </tr>
+</table>
