@@ -17,3 +17,10 @@ Nota: ⭐⭐⭐⭐⭐
 Crítico: Cecília Silva
 
 Nota: ⭐⭐⭐⭐⭐
+
+### Meninas Malvadas
+![Meninas Malvadas](https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1564244336-51jdJ4IPmvL.jpg?crop=1xw:1xh;center,top&resize=980:*)
+
+Crítico: Arthur Schroder
+
+Nota: ⭐⭐⭐⭐⭐
