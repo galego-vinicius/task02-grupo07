@@ -70,3 +70,7 @@ Vinicius Felix
 Cecília Silva
 
 [![LinkedIn](https://media.licdn.com/dms/image/D4D03AQHBEKLi3xsNEQ/profile-displayphoto-shrink_100_100/0/1701786995108?e=1707955200&v=beta&t=8ngHPPs4VpMSBypPPb94mQ0bCr7opwYdxDrguyrYD00)](https://www.linkedin.com/in/ceciliaprogramadora/)
+
+Arthur Schroder 
+
+[![LinkedIn](https://media.licdn.com/dms/image/D4E03AQE-LrTH9UVR6w/profile-displayphoto-shrink_100_100/0/1692737537511?e=1707955200&v=beta&t=-PRH6a5xOjtWpDio2b8xwhtTmAM0DL5y4NuSbVIBqrw)](https://www.linkedin.com/in/arthurschroder/)
