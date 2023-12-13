@@ -32,6 +32,12 @@ Crítico: Tiago Raupp da Rosa
 
 Nota: ⭐⭐⭐⭐⭐
 
+### Sobrenatural 5: A Porta Vermelha
+![Sobrenatural 5: A Porta Vermelha](https://www.claquete.com/fotos/filmes/poster/15075_medio.jpg)
+
+Crítico: Gabriel Zampieri
+
+Nota: ⭐⭐⭐⭐⭐
 
 
 
@@ -41,3 +47,7 @@ Integrantes do Grupo
 Tiago Raupp da Rosa
 
 [![LinkedIn](https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_100_100/0/1689184256625?e=1707955200&v=beta&t=YGDfO7BXeO6LWCcSN6epDHPPjzHEtA358QwP0oTkFL8)](https://www.linkedin.com/in/tiago-raupp/)
+
+Gabriel Zampieri
+
+[![LinkedIn](https://media.licdn.com/dms/image/C4E03AQG1oRzT8pUZIg/profile-displayphoto-shrink_100_100/0/1626807500603?e=1707955200&v=beta&t=ipBRL14xXGA8bpdEVvgIK3QHQ-1x3O1FjTPrvpcLCQY)](https://www.linkedin.com/in/gabrielzampieri/)
