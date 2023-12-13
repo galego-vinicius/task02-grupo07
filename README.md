@@ -62,3 +62,7 @@ Gabriel Zampieri
 Leonardo Faneze
 
 [![LinkedIn](https://media.licdn.com/dms/image/D4D03AQGvxp35hrLmFA/profile-displayphoto-shrink_100_100/0/1667805242642?e=1707955200&v=beta&t=wF87Jo_K8ElrOiZMPtQJ9K6klOFt9E0sktK9f_fpgr8)](https://www.linkedin.com/in/leonardo-faneze-camboim/)
+
+Vinicius Felix
+
+[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQEqPI76gP-OrA/profile-displayphoto-shrink_100_100/0/1684601854331?e=1707955200&v=beta&t=wyb1YdYs-NmUPtW4vzgiRIE6WUSyL6jvzHlJ2q7Dy9A)](https://www.linkedin.com/in/vini-felix/)
