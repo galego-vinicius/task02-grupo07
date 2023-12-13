@@ -24,3 +24,20 @@ Nota: ⭐⭐⭐⭐⭐
 Crítico: Arthur Schroder
 
 Nota: ⭐⭐⭐⭐⭐
+
+### Som da Liberdade
+![Som da Liberdade](https://br.web.img3.acsta.net/c_310_420/pictures/23/09/17/17/37/4230804.jpg)
+
+Crítico: Tiago Raupp da Rosa
+
+Nota: ⭐⭐⭐⭐⭐
+
+
+
+
+Integrantes do Grupo
+
+
+Tiago Raupp da Rosa
+
+[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_100_100/0/1689184256625?e=1707955200&v=beta&t=YGDfO7BXeO6LWCcSN6epDHPPjzHEtA358QwP0oTkFL8)](https://www.linkedin.com/in/tiago-raupp/)
